@@ -1,4 +1,10 @@
-# project_modal-window
+# Задание: Создать компонент модального окна для вывода произвольного контента
+
+Требования:
+1.	Компонент должен допускать вывод модального окна с произвольным заголовком и содержимым.
+2.	Проект должен быть разработан на Vue 3 c использованием инструментария Vue CLI.
+3.	Код должен быть прокомментирован.
+
 
 ## Project setup
 ```
@@ -9,16 +15,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
